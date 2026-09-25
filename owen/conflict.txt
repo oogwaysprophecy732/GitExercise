@@ -1,1 +1,2 @@
 Different sample conflict text for feature2-test.
+Sample conflict text for feature1-test.
